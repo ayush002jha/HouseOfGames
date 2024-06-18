@@ -20,10 +20,11 @@ body {
 .btn {
   margin: 25px;
   display: inline-block;
-  height: 200px;
-  width: 200px;
+  height: fit-content;
+  width: fit-content;
+  padding: 5%;
   border: 10px solid black;
-  border-radius: 20%;
+  border-radius: 40px;
 }
 
 .btn1 {
